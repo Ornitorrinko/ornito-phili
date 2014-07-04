@@ -46,5 +46,5 @@ For now this library is in total development only ornito members are allowed to 
 
 ## License
 
-Copyright (c) 2014 Vinicius Mesquita  
+Copyright (c) 2014 Ornitorrinko
 Licensed under the MIT license.
