@@ -1,0 +1,41 @@
+{
+  "name": "ornito-phili",
+  "version": "0.0.1",
+  "main": "lib/ornito-phili.js",
+  "description": "The tiny and lightweight dependency injection Spring like made by Ornitorrinko",
+  "homepage": "http://github.com/ornitorrinko/ornito-phili",
+  "bugs": "https://github.com/ornitorrinko/ornito-phili/issues",
+  "author": {
+    "name": "Ornitorrinko",
+    "email": "ornitorrinko@ornitorrinko.com",
+    "url": "http://ornitorrinko.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ornitorrinko/ornito-phili"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "ornito-phili",
+    "dependency injection",
+    "service locator",
+    "IoC",
+    "di"
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^0.4.0",
+    "time-grunt": "^0.3.1",
+    "jshint-stylish": "^0.2.0"
+  },
+  "dependencies": {
+  },
+  "scripts": {
+    "test": "grunt"
+  }
+}
