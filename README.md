@@ -1,6 +1,6 @@
 # ornito-phili [![Build Status](https://secure.travis-ci.org/ornitorrinko/ornito-phili.png?branch=master)](http://travis-ci.org/ornitorrinko/ornito-phili)
 
-> The tiny and lightweight dependency injection Spring like made by Ornitorrinko
+> The tiny and lightweight dependency injection "Spring like" made by Ornitorrinko
 
 
 ## Getting Started
