@@ -19,6 +19,7 @@ _(Coming soon)_
 
 ## Examples
 
+```js
 var phili = require("ornito-phili");
 var locator = new phili(__dirname + "/my-resources.json");
 var myResource = locator.get("mainResource");
@@ -38,6 +39,7 @@ myResource.proceed();
 		"dependencies": ["db", "otherResource", ...]
 	}
 	...
+```
 
 ## Contributing
 For now this library is in total development only ornito members are allowed to contribute
